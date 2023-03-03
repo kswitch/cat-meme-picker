@@ -1,0 +1,6 @@
+export const emotionRadios = document.querySelector('#emotion-radios')
+export const gifsOnlyOption = document.querySelector('#gifs-only-option')
+export const getImageBtn = document.querySelector('#get-image-btn')
+export const memeModalInner = document.querySelector('#meme-modal-inner')
+export const memeModal = document.querySelector('#meme-modal')
+export const memeModalCloseBtn = document.querySelector('#meme-modal-close-btn')
